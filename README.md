@@ -142,8 +142,7 @@
 
 ##交流与学习
 
-QQ:188273928
-CSDN Blog:http://blog.csdn.net/wisewolf_life
-Email:wy_lumia@outlook.com
-**欢迎交流学习^.^**
+- QQ:188273928
+- CSDN Blog:http://blog.csdn.net/wisewolf_life
+- Email:wy_lumia@outlook.com
 

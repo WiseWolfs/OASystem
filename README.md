@@ -59,7 +59,7 @@
 
 ###二、ER图
 
-![des](C:/Users/Administrator/Desktop/12.png)
+![des](12.png)
 
 
 ###三、数据表含义

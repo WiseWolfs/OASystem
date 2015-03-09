@@ -139,3 +139,11 @@
 	ParameterizedType pt=this.getClass().getGenericSuperClass();
 	clazz=(Class<T>)pt.getActualTypeArguments()[0];
 ```
+
+##交流与学习
+
+QQ:188273928
+CSDN Blog:http://blog.csdn.net/wisewolf_life
+Email:wy_lumia@outlook.com
+**欢迎交流学习^.^**
+

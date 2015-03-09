@@ -1,0 +1,36 @@
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+		
+		<!-- 1，导入js文件 -->
+		<script type="text/javascript" src="fckeditor.js"></script>
+
+
+	</head>
+	<body>
+
+		<form action="">
+			<textarea name="content">这是回显的内容</textarea>
+			<br>
+
+			<!-- 2，写一段JS代码显示FCKeditor -->
+			<script type="text/javascript">
+				var oFCKeditor = new FCKeditor( 'content' ) ; // 此参数会做提交表单时的参数名使用
+				oFCKeditor.BasePath	= "./" ; // 一定要指定editor文件夹所在的路径，并且要以'/'结尾
+				oFCKeditor.Height	= "300px" ;
+				oFCKeditor.Width	= "700px" ;
+				oFCKeditor.ToolbarSet = "bbs"; // 指定工具栏的配置，默认为Default
+				// oFCKeditor.Create() ; // 在当前位置生成并显示FCKeditor
+				oFCKeditor.ReplaceTextarea(); // 替换指定id或name的Textarea为FCKeditor
+			</script>
+			
+
+
+			<br><input type="submit" value="提交">
+		</form>
+
+		<hr>
+		<a href="#">return</a>
+
+	</body>
+</html>

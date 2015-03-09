@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="cn.itcast.oa.domain">
+
+	<class name="Reply" table="itcast_reply">
+		<id name="id">
+			<generator class="native" />
+		</id>
+		<property name="title" />
+		<property name="content" type="text" length="65536"/>
+		<property name="postTime" type="timestamp" />
+		<property name="ipAddr" />
+		<!-- author属性，本类与User的多对一-->
+		<many-to-one name="author" class="User" column="authorId"></many-to-one>
+		
+		<!-- topic属性，本类与Topic的多对一-->
+		<many-to-one name="topic" class="Topic" column="topicId"></many-to-one>
+		
+	</class>
+
+</hibernate-mapping>

@@ -1,41 +1,41 @@
-#OAÏµÍ³¼ò½é
+#OAç³»ç»Ÿç®€ä»‹
 ##**What is OA?**
-¹Ù·½Ò»µãµÄËµ·¨£ºOAÊÇOffice AutomationµÄËõÐ´£¬±¾ÒâÎªÀûÓÃ¼¼ÊõµÄÊÖ¶ÎÌá¸ß°ì¹«µÄÐ§ÂÊ£¬½ø¶øÊµÏÖ°ì¹«µÄ×Ô¶¯»¯´¦Àí¡£ÊµÏÖÐÅÏ¢»¯¡¢ÎÞÖ½»¯°ì¹«£¬¿É·½±ãµÄÉú³ÉÍ³¼Æ±¨±íµÈ¡£
-Ëµ°×ÁË£¬¾ÍÊÇÌá¸ß°ì¹«Ð§ÂÊµÄÒ»Ì×Èí¼þÏµÍ³¡£
+å®˜æ–¹ä¸€ç‚¹çš„è¯´æ³•ï¼šOAæ˜¯Office Automationçš„ç¼©å†™ï¼Œæœ¬æ„ä¸ºåˆ©ç”¨æŠ€æœ¯çš„æ‰‹æ®µæé«˜åŠžå…¬çš„æ•ˆçŽ‡ï¼Œè¿›è€Œå®žçŽ°åŠžå…¬çš„è‡ªåŠ¨åŒ–å¤„ç†ã€‚å®žçŽ°ä¿¡æ¯åŒ–ã€æ— çº¸åŒ–åŠžå…¬ï¼Œå¯æ–¹ä¾¿çš„ç”Ÿæˆç»Ÿè®¡æŠ¥è¡¨ç­‰ã€‚
+è¯´ç™½äº†ï¼Œå°±æ˜¯æé«˜åŠžå…¬æ•ˆçŽ‡çš„ä¸€å¥—è½¯ä»¶ç³»ç»Ÿã€‚
 
-ÏîÄ¿ÊÇÊî¼ÙµÄÊ±ºò£¬¸ú×Å´«ÖÇ²¥¿ÍµÄÊÓÆµ×öµÄ£¬×Ô¼ºÓÖ¶ÀÁ¢Íê³ÉÁËÒ»±é¡£²»ÄÜËµÊÇ×Ô¼ºµÄÏîÄ¿£¬²»¹ý¾õµÃ£¬´ÓÕâ¸öÊÓÆµÖÐÊÕ»ñÁËºÜ¶à¡£°ÑÖ®Ç°Ñ§¹ýµÄÈý´ó¿ò¼ÜµÄÖªÊ¶£¬ÏµÍ³µÄÕûºÏµ½ÁËÒ»Æð£¬ÔÚÊµ¼ùÖÐµÃÒÔÔËÓÃ¡£[ÊÓÆµµÄÏÂÔØµØÖ·](http://down.51cto.com/zt/5298)
+é¡¹ç›®æ˜¯æš‘å‡çš„æ—¶å€™ï¼Œè·Ÿç€ä¼ æ™ºæ’­å®¢çš„è§†é¢‘åšçš„ï¼Œè‡ªå·±åˆç‹¬ç«‹å®Œæˆäº†ä¸€éã€‚ä¸èƒ½è¯´æ˜¯è‡ªå·±çš„é¡¹ç›®ï¼Œä¸è¿‡è§‰å¾—ï¼Œä»Žè¿™ä¸ªè§†é¢‘ä¸­æ”¶èŽ·äº†å¾ˆå¤šã€‚æŠŠä¹‹å‰å­¦è¿‡çš„ä¸‰å¤§æ¡†æž¶çš„çŸ¥è¯†ï¼Œç³»ç»Ÿçš„æ•´åˆåˆ°äº†ä¸€èµ·ï¼Œåœ¨å®žè·µä¸­å¾—ä»¥è¿ç”¨ã€‚[è§†é¢‘çš„ä¸‹è½½åœ°å€](http://down.51cto.com/zt/5298)
 
 ##**How to Run this project?**
 
-##**1.¹¦ÄÜÐèÇó**
+##**1.åŠŸèƒ½éœ€æ±‚**
 
-| Ä£¿é| ¹¦ÄÜ |
+| æ¨¡å—| åŠŸèƒ½ |
 | ------------- |:-------------:| -----:|
-| ×éÖ¯ÓëÓÃ»§¹ÜÀí | ¸ÚÎ»¹ÜÀí |  |
-| | ²¿ÃÅ¹ÜÀí |  |
-| | ÓÃ»§¹ÜÀí |  |
-| ÏµÍ³È¨ÏÞ | ³õÊ¼»¯È¨ÏÞ| |
-| | ·ÖÅäÈ¨ÏÞ|  |
-| | ÑéÖ¤È¨ÏÞ|  |
-| ÍøÉÏ½»Á÷--ÂÛÌ³ | °æ¿é¹ÜÀí | |
-| | ¿´Ìû¡¢·¢Ìû¡¢»ØÌû|  |
-| | ÎÄÕÂ¹ÜÀí|  |
-| ÉóÅúÁ÷×ª£¨¹¤×÷Á÷£© | ±íµ¥Ä£°å¹ÜÀí | |
-| | ÉóÅúÁ÷³Ì¹ÜÀí|  |
-| | ÉóÅúÁ÷×ª|  |
-| | ±íµ¥²éÑ¯|  |
+| ç»„ç»‡ä¸Žç”¨æˆ·ç®¡ç† | å²—ä½ç®¡ç† |  |
+| | éƒ¨é—¨ç®¡ç† |  |
+| | ç”¨æˆ·ç®¡ç† |  |
+| ç³»ç»Ÿæƒé™ | åˆå§‹åŒ–æƒé™| |
+| | åˆ†é…æƒé™|  |
+| | éªŒè¯æƒé™|  |
+| ç½‘ä¸Šäº¤æµ--è®ºå› | ç‰ˆå—ç®¡ç† | |
+| | çœ‹å¸–ã€å‘å¸–ã€å›žå¸–|  |
+| | æ–‡ç« ç®¡ç†|  |
+| å®¡æ‰¹æµè½¬ï¼ˆå·¥ä½œæµï¼‰ | è¡¨å•æ¨¡æ¿ç®¡ç† | |
+| | å®¡æ‰¹æµç¨‹ç®¡ç†|  |
+| | å®¡æ‰¹æµè½¬|  |
+| | è¡¨å•æŸ¥è¯¢|  |
 
 
 
-##**2.ÕûÌåÉè¼Æ**
+##**2.æ•´ä½“è®¾è®¡**
 
-* ±íÊ¾²ã£ºJSP¡¢Struts2
-* ÒµÎñÂß¼­²ã£ºSpring2.5
-* Êý¾Ý·ÃÎÊ²ã£ºHibernate3.6
+* è¡¨ç¤ºå±‚ï¼šJSPã€Struts2
+* ä¸šåŠ¡é€»è¾‘å±‚ï¼šSpring2.5
+* æ•°æ®è®¿é—®å±‚ï¼šHibernate3.6
 
-##**3.¿ª·¢¹¤¾ß¼°Éæ¼°¼¼Êõ**
+##**3.å¼€å‘å·¥å…·åŠæ¶‰åŠæŠ€æœ¯**
 
-###Ò»¡¢¿ª·¢»·¾³
+###ä¸€ã€å¼€å‘çŽ¯å¢ƒ
 * Windows7
 * MyEclipse8.5
 * Mysql5.5
@@ -43,7 +43,7 @@
 * JDK7.0
 * Chrome
 
-###¶þ¡¢Éæ¼°¼¼Êõ
+###äºŒã€æ¶‰åŠæŠ€æœ¯
 * Struts2
 * Hibernate
 * Spring
@@ -51,88 +51,88 @@
 * junit
 * Jquery
 
-##**4.Êý¾Ý¿âÉè¼Æ**
+##**4.æ•°æ®åº“è®¾è®¡**
 
-###Ò»¡¢´´½¨Êý¾Ý¿â
+###ä¸€ã€åˆ›å»ºæ•°æ®åº“
 
 ` create database oa charset utf8; ` 
 
-###¶þ¡¢ERÍ¼
+###äºŒã€ERå›¾
 
 ![des](12.png)
 
 
-###Èý¡¢Êý¾Ý±íº¬Òå
+###ä¸‰ã€æ•°æ®è¡¨å«ä¹‰
 
-| ±íÃû| ×Ö¶ÎÃû | ×Ö¶Îº¬Òå |
+| è¡¨å| å­—æ®µå | å­—æ®µå«ä¹‰ |
 | ------------- |:-------------:| -----:|
-| **itcast_user**| loginName |µÇÂ¼Ãû  |
-| | password |ÃÜÂë  |
-| | name |ÕæÊµÐÕÃû  |
-|  | gender|ÐÔ±ð |
-| | phoneNumber| µç»°ºÅÂë |
-| | email| µç×ÓÓÊ¼þ |
-| | description |ËµÃ÷ |
-| | departmentId|²¿ÃÅºÅ  |
-|**itcast_role** | name|½ÇÉ«Ãû³Æ  |
-| |description |½ÇÉ«ÃèÊö |
-| **itcast_privilege**|name |È¨ÏÞÃû³Æ  |
-| |url |Á´½Ó  |
-| | parentId|¸¸È¨ÏÞID  |
-| **itcast_department**|name |²¿ÃÅÃû³Æ  |
-| | description|Ö°ÄÜÃèÊö  |
-| |parentId|¸¸¼¶²¿ÃÅID|
-|**itcast_forum**|name|°æ¿éÃû³Æ|
-||description|°æ¿éÃèÊö|
-||position|°æ¿éÎ»ÖÃ|
-||topicCount|Ö÷ÌâÊý|
-||articleCount|ÎÄÕÂÊý|
-||lastTopicId|×î½üÒ»´Î·¢±íÖ÷ÌâµÄID|
-|**itcast_topic**|title|Ìû×ÓÖ÷Ìâ|
-||content|ÄÚÈÝ|
-||faceIcon|Í¼±ê|
-||postTime|·¢±íÊ±¼ä|
-||ipAddr|·¢±íÕßµÄIPµØÖ·|
-||authorId|×÷ÕßID|
-||type|Ìû×ÓÀàÐÍ£¨¾«»ª¡¢ÆÕÍ¨¡¢ÖÃ¶¥£©|
-||replyCount|»Ø¸´Êý|
-||lastUpdateTime|×îºóÒ»´Î¸üÐÂÊ±¼ä|
-||forumId|ËùÊô°æ¿éID|
-||lastReplyId|×îºóÒ»´Î»Ø¸´µÄID|
-|**itcast_reply**|title|±êÌâ(Í¬Topic¶¼¼Ì³ÐArticle)|
-||content|ÄÚÈÝ|
-||faceIcon|Í¼±ê|
-||postTime|·¢±íÊ±¼ä|
-||ipAddr|»Ø¸´ÕßµÄIPµØÖ·|
-||authorId|»Ø¸´ÕßµÄID|
-||topicId|ËùÊôÖ÷ÌâµÄID|
+| **itcast_user**| loginName |ç™»å½•å  |
+| | password |å¯†ç   |
+| | name |çœŸå®žå§“å  |
+|  | gender|æ€§åˆ« |
+| | phoneNumber| ç”µè¯å·ç  |
+| | email| ç”µå­é‚®ä»¶ |
+| | description |è¯´æ˜Ž |
+| | departmentId|éƒ¨é—¨å·  |
+|**itcast_role** | name|è§’è‰²åç§°  |
+| |description |è§’è‰²æè¿° |
+| **itcast_privilege**|name |æƒé™åç§°  |
+| |url |é“¾æŽ¥  |
+| | parentId|çˆ¶æƒé™ID  |
+| **itcast_department**|name |éƒ¨é—¨åç§°  |
+| | description|èŒèƒ½æè¿°  |
+| |parentId|çˆ¶çº§éƒ¨é—¨ID|
+|**itcast_forum**|name|ç‰ˆå—åç§°|
+||description|ç‰ˆå—æè¿°|
+||position|ç‰ˆå—ä½ç½®|
+||topicCount|ä¸»é¢˜æ•°|
+||articleCount|æ–‡ç« æ•°|
+||lastTopicId|æœ€è¿‘ä¸€æ¬¡å‘è¡¨ä¸»é¢˜çš„ID|
+|**itcast_topic**|title|å¸–å­ä¸»é¢˜|
+||content|å†…å®¹|
+||faceIcon|å›¾æ ‡|
+||postTime|å‘è¡¨æ—¶é—´|
+||ipAddr|å‘è¡¨è€…çš„IPåœ°å€|
+||authorId|ä½œè€…ID|
+||type|å¸–å­ç±»åž‹ï¼ˆç²¾åŽã€æ™®é€šã€ç½®é¡¶ï¼‰|
+||replyCount|å›žå¤æ•°|
+||lastUpdateTime|æœ€åŽä¸€æ¬¡æ›´æ–°æ—¶é—´|
+||forumId|æ‰€å±žç‰ˆå—ID|
+||lastReplyId|æœ€åŽä¸€æ¬¡å›žå¤çš„ID|
+|**itcast_reply**|title|æ ‡é¢˜(åŒTopicéƒ½ç»§æ‰¿Article)|
+||content|å†…å®¹|
+||faceIcon|å›¾æ ‡|
+||postTime|å‘è¡¨æ—¶é—´|
+||ipAddr|å›žå¤è€…çš„IPåœ°å€|
+||authorId|å›žå¤è€…çš„ID|
+||topicId|æ‰€å±žä¸»é¢˜çš„ID|
 
 
-##**5.¹«¹²ÀàµÄÉè¼Æ**
+##**5.å…¬å…±ç±»çš„è®¾è®¡**
 
-###1¡¢Éè¼ÆBaseDao
-	Ò»°ãÓÐ6¸ö·½·¨
+###1ã€è®¾è®¡BaseDao
+	ä¸€èˆ¬æœ‰6ä¸ªæ–¹æ³•
 	
 ```
-	void save(T entity);//Ôö
+	void save(T entity);//å¢ž
 	
 	void delete(Long id);
 	
 	void update(T entity);
 	
-	T getById(Long id);//²é
+	T getById(Long id);//æŸ¥
 	
 	List<T> findAll();
 	
 	List<T> getByIds(Long []ids);
 ```
 
-###2¡¢Éè¼ÆBaseDaoÊµÏÖÀà
+###2ã€è®¾è®¡BaseDaoå®žçŽ°ç±»
 
->ÊµÏÖÉÏÃæ6¸ö·½·¨
-Éè¼ÆBaseDaoImplÊµÏÖ
-	»ñÈ¡TµÄÕæÊµÀàÐÍ£º
-	Ê¹ÓÃ·´ÉäµÄ·½·¨
+>å®žçŽ°ä¸Šé¢6ä¸ªæ–¹æ³•
+è®¾è®¡BaseDaoImplå®žçŽ°
+	èŽ·å–Tçš„çœŸå®žç±»åž‹ï¼š
+	ä½¿ç”¨åå°„çš„æ–¹æ³•
 
 	
 ```
@@ -140,9 +140,6 @@
 	clazz=(Class<T>)pt.getActualTypeArguments()[0];
 ```
 
-##½»Á÷ÓëÑ§Ï°
-
-- QQ:188273928
+##äº¤æµä¸Žå­¦ä¹ 
 - CSDN Blog:http://blog.csdn.net/wisewolf_life
-- Email:wy_lumia@outlook.com
 
